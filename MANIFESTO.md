@@ -1,5 +1,7 @@
 # Jupiter’s Manifesto
 
+Version 1.0
+
 1. [Strive for simplicity](#strive-for-simplicity)
 2. [If complex, take notes](#if-complex-take-notes)
 3. [Support ecommerce patterns](#support-ecommerce-patterns)
